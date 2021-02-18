@@ -26,7 +26,7 @@ echo '05bf012D9F8b2903f18C9361ee5E40Bb2a1217e7' >> accounts.txt
 
 ![Screenshot 2](https://user-images.githubusercontent.com/70985179/107175190-2b768600-699a-11eb-9e22-a6b6640214b5.png)
 
-#Puppeth Install
+# Puppeth Install
 
 4. Run puppeth on the command line
 
